@@ -4,4 +4,4 @@
 
 图片资源不全，有的地方没有实现
 
- ![img](https://github.com/qq634421026/MISport/raw/master/images-folder/xxx.png)
+ ![img](https://github.com/qq634421026/MISport/blob/master/gif.gif)
